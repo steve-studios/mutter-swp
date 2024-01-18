@@ -1,4 +1,4 @@
-# Mutter
+# Mutter with SDesk Windowing Protocol Support
 
 Mutter is a Wayland display server and X11 window manager and compositor library.
 
